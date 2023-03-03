@@ -1,0 +1,8 @@
+train: ../cctv1/voc/images/ 
+val: ../cctv1/voc/images/  
+
+# number of classes
+nc: 1
+
+# class names
+names: ['plate']
